@@ -1,0 +1,245 @@
+{
+  "Orthopedics": [
+    "bone pain", "fracture", "joint pain", "knee pain", "hip pain", "back pain",
+    "spine pain", "sprain", "arthritis", "ligament injury", "tendon injury",
+    "muscle pain", "shoulder pain", "joint swelling", "stiffness"
+  ],
+
+  "Internal Medicine": [
+    "fever", "cold", "flu", "infection", "body ache", "weakness",
+    "fatigue", "malaise", "general illness", "headache mild"
+  ],
+
+  "Obstetrics and Gynecology": [
+    "pregnancy", "missed period", "irregular periods", "heavy bleeding",
+    "pelvic pain", "vaginal discharge", "pcos", "menopause",
+    "uterine pain", "infertility", "ovarian cyst", "labor pain"
+  ],
+
+  "Dermatology": [
+    "skin rash", "acne", "itching", "eczema", "psoriasis", "skin lesion",
+    "blister", "wart", "fungal infection", "skin allergy",
+    "dry skin", "pigmentation", "skin redness"
+  ],
+
+  "Pediatrics": [
+    "child fever", "baby cough", "infant vomiting", "child diarrhea",
+    "growth delay", "failure to thrive", "newborn issues",
+    "pediatric infection", "child rash"
+  ],
+
+  "Radiology": [
+    "xray", "ct scan", "mri", "ultrasound",
+    "scan report", "imaging", "radiology test"
+  ],
+
+  "General Surgery": [
+    "hernia", "appendix pain", "gallbladder pain",
+    "abscess", "lump removal", "surgical wound",
+    "post surgery issues"
+  ],
+
+  "Ophthalmology": [
+    "eye pain", "red eye", "blurred vision", "vision loss",
+    "dry eyes", "watering eyes", "glaucoma",
+    "cataract", "eye infection", "floaters"
+  ],
+
+  "Anesthesia": [
+    "anesthesia", "sedation", "pain control surgery",
+    "pre surgery evaluation", "operation anesthesia"
+  ],
+
+  "Pathology": [
+    "blood test", "lab test", "biopsy",
+    "urine test", "report analysis",
+    "diagnostic test", "lab report"
+  ],
+
+  "ENT": [
+    "ear pain", "ear infection", "hearing loss", "ringing ear",
+    "nose block", "sinus pain", "sore throat", "tonsillitis",
+    "hoarseness", "nasal congestion", "loss of smell", "runny nose"
+  ],
+
+  "Dental Care": [
+    "toothache", "tooth pain", "cavity", "gum bleeding",
+    "bad breath", "wisdom tooth pain",
+    "oral infection", "loose teeth", "swollen gums"
+  ],
+
+  "Endocrinologists": [
+    "diabetes", "high sugar", "low sugar",
+    "thyroid problem", "hormonal imbalance",
+    "weight gain", "weight loss",
+    "excess thirst", "polyuria"
+  ],
+
+  "Neurologists": [
+    "headache", "migraine", "seizure",
+    "numbness", "weakness", "paralysis",
+    "vision loss", "dizziness", "vertigo",
+    "stroke", "tingling", "memory loss"
+  ],
+  
+    "Cardiology": [
+    "chest pain", "heart palpitations", "shortness of breath",
+    "high blood pressure", "low blood pressure",
+    "irregular heartbeat", "heart attack symptoms",
+    "swelling in legs", "fatigue on exertion"
+  ],
+
+  "Pulmonology": [
+    "chronic cough", "shortness of breath", "wheezing",
+    "asthma", "lung infection", "tuberculosis",
+    "chest tightness", "sleep apnea breathing issues"
+  ],
+
+  "Gastroenterology": [
+    "abdominal pain", "acid reflux", "heartburn",
+    "indigestion", "nausea", "vomiting",
+    "diarrhea", "constipation", "bloated stomach",
+    "liver problems", "jaundice"
+  ],
+
+  "Nephrology": [
+    "kidney pain", "swelling in legs", "high creatinine",
+    "urine problems", "blood in urine",
+    "kidney stones", "chronic kidney disease",
+    "fluid retention"
+  ],
+
+  "Urology": [
+    "urinary infection", "frequent urination",
+    "painful urination", "blood in urine",
+    "prostate issues", "kidney stones",
+    "bladder problems", "incontinence"
+  ],
+
+  "Oncology": [
+    "tumor", "cancer diagnosis", "unexplained weight loss",
+    "persistent fatigue", "lump", "abnormal bleeding",
+    "chronic pain", "family history of cancer"
+  ],
+
+  "Psychiatry": [
+    "depression", "anxiety", "stress",
+    "panic attacks", "insomnia",
+    "mood swings", "behavioral issues",
+    "suicidal thoughts", "mental health issues"
+  ],
+
+  "Hematology": [
+    "anemia", "low hemoglobin",
+    "bleeding disorders", "blood clot",
+    "bruising easily", "leukemia",
+    "platelet disorders"
+  ],
+
+  "Rheumatology": [
+    "joint pain", "arthritis", "autoimmune disease",
+    "lupus", "joint swelling",
+    "stiffness", "muscle weakness"
+  ],
+
+  "Immunology": [
+    "immune deficiency", "recurrent infections",
+    "autoimmune disease", "allergic reactions",
+    "immune system disorder"
+  ],
+
+  "Infectious Diseases": [
+    "fever", "infection", "viral infection",
+    "bacterial infection", "covid symptoms",
+    "tuberculosis", "malaria", "dengue",
+    "chills", "body aches"
+  ],
+
+  "Plastic Surgery": [
+    "cosmetic surgery", "burn injury",
+    "scar removal", "reconstructive surgery",
+    "facial deformity", "skin graft"
+  ],
+
+  "Cardiothoracic Surgery": [
+    "heart surgery", "lung surgery",
+    "bypass surgery", "valve replacement",
+    "chest surgery", "aortic aneurysm"
+  ],
+
+  "Neurosurgery": [
+    "brain tumor", "spinal cord injury",
+    "head injury", "brain surgery",
+    "nerve compression", "disc herniation"
+  ],
+
+  "Vascular Surgery": [
+    "varicose veins", "blood vessel blockage",
+    "aneurysm", "peripheral artery disease",
+    "leg pain while walking"
+  ],
+
+  "Emergency Medicine": [
+    "accident", "trauma", "severe injury",
+    "unconsciousness", "severe bleeding",
+    "heart attack", "stroke",
+    "poisoning", "burns"
+  ],
+
+  "Family Medicine": [
+    "general checkup", "fever", "cold",
+    "minor illness", "vaccination",
+    "routine health care", "chronic disease management"
+  ],
+
+  "Geriatrics": [
+    "elderly care", "memory loss",
+    "arthritis in elderly", "mobility issues",
+    "age-related diseases", "dementia"
+  ],
+
+  "Sports Medicine": [
+    "sports injury", "muscle strain",
+    "ligament injury", "joint pain",
+    "fracture during sports",
+    "rehabilitation after injury"
+  ],
+
+  "Rehabilitation Medicine": [
+    "physical therapy", "post surgery rehab",
+    "stroke recovery", "mobility training",
+    "chronic pain recovery"
+  ],
+
+  "Critical Care Medicine": [
+    "icu care", "life support",
+    "severe infection", "organ failure",
+    "respiratory failure",
+    "critical illness monitoring"
+  ],
+
+  "Pain Management": [
+    "chronic pain", "back pain",
+    "nerve pain", "post surgery pain",
+    "cancer pain", "joint pain"
+  ],
+
+  "Allergy and Asthma": [
+    "allergic reaction", "asthma attack",
+    "sneezing", "itching",
+    "breathing difficulty",
+    "seasonal allergies"
+  ],
+
+  "Nuclear Medicine": [
+    "pet scan", "radioactive imaging",
+    "thyroid scan", "bone scan",
+    "nuclear imaging tests"
+  ],
+
+  "Sleep Medicine": [
+    "insomnia", "sleep apnea",
+    "snoring", "daytime sleepiness",
+    "sleep disorder"
+  ]
+}
