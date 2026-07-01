@@ -111,7 +111,7 @@ Hospital-Management-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hospital-Management-System.git
+git clone https://github.com/Anishpaila/Hospital-Management-System.git
 ```
 
 ### 2. Move the project folder into the XAMPP `htdocs` directory.
